@@ -1,0 +1,17 @@
+# Ignore sensitive SQL files
+*.sql
+
+# Ignore environment variables
+.env
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore compiled files
+__pycache__/
+*.pyc
