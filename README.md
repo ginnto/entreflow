@@ -156,9 +156,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 💡 Have questions or suggestions? Reach out to us!
-- 📧 Email: support@entreflow.com
-- 🌐 Website: [www.entreflow.com](https://www.entreflow.com)
-- 🐦 Twitter: [@entreflowapp](https://twitter.com/entreflowapp)
 - 💬 Join the discussion on Telegram: [EntreFlow Community](https://t.me/+0u6528u72UI1ZjBl)
 
 💙 Made with passion to empower entrepreneurs!
